@@ -18,11 +18,16 @@ for (let i = 0; i < 7; i++){
 }
 
 
-
-
-
-
 //Part C #5: Using a while loop, ask the user to select the number of meals to assemble.  Validate the input to make sure it is an integer from 1 - 6.
+
+
+let astroMeal = 0;
+
+
+
+// expected output: 3
+
+
 
 
 //Skill boosts: 
